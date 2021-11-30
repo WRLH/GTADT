@@ -1,4 +1,4 @@
-# TAADT
+# TAADT: Tone-sensitive Acne Grading via Aligned Augmented Domain Transfer
 ## AcneHDU
 ___
 The ACNE04 dataset is used as the source domain and the AcneHDU dataset is used as the target domian.
