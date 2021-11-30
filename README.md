@@ -48,4 +48,5 @@ the subjects. Similarly, in “AcnePGP”, only facial patches
 cropped from the original whole facial images are included.Currently, “AcnePGP” dataset can not be released for copyright issues.
 >### ACNE04
 >>The ACNE04 dataset can be downloaded from [LDL](https://github.com/xpwu95/ldl).
-
+# Pre-trained model
+>>The pre-trained model can be used for testing.The pre-trained model can be downloaded from [Baidu]().
