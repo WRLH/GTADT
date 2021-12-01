@@ -35,11 +35,11 @@ The ACNE04 dataset is used as the source domain and the AcneHdu, AcneHdup and Ac
 # Dataset
 >### AcneHdu
 >>We collect a facial acne image dataset from the public
-websites and [shutterstock.com](http://shutterstock.com/).The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1upnTVd87rxKsSF6uGEgD3g)(pw:tmmq).
+websites and [shutterstock.com](http://shutterstock.com/).The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1APEcaR9dL8msEs-vOkFQpg)(pw:ha75).
 >### AcneHdup
 >>To ensure privacy, we
 crop the whole facial images in “Acnehdu”, and build a subset
-named “AcnehduP” only using cropped facial patches.The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1upnTVd87rxKsSF6uGEgD3g)(pw:tmmq).
+named “AcnehduP” only using cropped facial patches.The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1APEcaR9dL8msEs-vOkFQpg)(pw:ha75).
 >### AcnePGP
 >>we collect a beauty-oriented facial acne
 dataset, namely “AcnePGP”. The facial images are collected
