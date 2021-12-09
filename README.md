@@ -51,4 +51,4 @@ cropped from the original whole facial images are included.Currently, “AcnePGP
 # Pre-trained model
 >>The pre-trained model can be used for testing.The pre-trained model can be downloaded from [Baidu](https://pan.baidu.com/s/1E5yZ8dhDouCYIJ0_SZGhzQ)(pw:w49o).
 
-### The annotation information of the data is being sorted out and will be uploaded later.
+### The AcneHDUP annotation information of the data is being sorted out and will be uploaded later.
