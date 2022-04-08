@@ -1,4 +1,4 @@
-# TAADT: Tone-sensitive Acne Grading via Aligned Augmented Domain Transfer
+# GTADT: Tone-sensitive Acne Grading via Aligned Augmented Domain Transfer
 ## AcneHDU、AcneHDUP、AcnePGP
 ___
 The ACNE04 dataset is used as the source domain and the AcneHdu, AcneHdup and AcnePGP dataset is used as the target domian respectively.
