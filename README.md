@@ -39,7 +39,7 @@ websites and [shutterstock.com](http://shutterstock.com/).The AcneHDU dataset ca
 >### AcneHdup
 >>To ensure privacy, we
 crop the whole facial images in “Acnehdu”, and build a subset
-named “AcnehduP” only using cropped facial patches.The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1APEcaR9dL8msEs-vOkFQpg)(pw:ha75).
+named “AcnehduP” only using cropped facial patches.The AcneHDU dataset can be downloaded from [Baidu](https://pan.baidu.com/s/1APEcaR9dL8msEs-vOkFQpg)(pw:ha75).The AcneHDU annotation can be downloaded from [Baidu](https://pan.baidu.com/s/1uneYB92N9NM7dGVD03kHIA)(pw:0vu6).
 >### AcnePGP
 >>we collect a beauty-oriented facial acne
 dataset, namely “AcnePGP”. The facial images are collected
@@ -49,6 +49,6 @@ cropped from the original whole facial images are included.Currently, “AcnePGP
 >### ACNE04
 >>The ACNE04 dataset can be downloaded from [LDL](https://github.com/xpwu95/ldl).
 # Pre-trained model
->>The pre-trained model can be used for testing.The pre-trained model can be downloaded from [Baidu](https://pan.baidu.com/s/1E5yZ8dhDouCYIJ0_SZGhzQ)(pw:w49o).
+>>The pre-trained model can be used for testing.The pre-trained model can be downloaded from [Baidu](https://pan.baidu.com/s/1Algev0ro8UXx3inn7k4Org)(pw:knjw).
 
 ### The AcneHDUP annotation information of the data is being sorted out and will be uploaded later.
